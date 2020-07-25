@@ -1,4 +1,4 @@
-# terraform-aws-vpc
+# terraform-vpc-tutorial
 
 Project code for creating an AWS VPC using Terraform.
 
